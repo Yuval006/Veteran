@@ -8,13 +8,15 @@ This is the repository of the Veteran bash project!
 In this project you'll be working together in order to create a one gigantic bash script called Veteran.sh
 The end goal is a bash script that can get 1 - 7 flags and perform all of the Veteran Level tasks respectively!
 
-I know that its sounds hard but with teamwork and good collaboration its actually much easier then you might think.
+I know that maybe sound hard but with teamwork and good collaboration its actually much easier then you might think.
 
 --- HOW? ---
 
 
 You'll be divided into 4 teams.
+
 The first 3 teams is responsible for coding 2 tasks.
+
 The 4th team will be incharge of 1 task and the Veteran.sh file.
 
 
