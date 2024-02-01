@@ -1,4 +1,4 @@
-Hello DevSecOps students
+Hello students
 
 This is the repository of the Veteran bash project!
 
